@@ -1,0 +1,4 @@
+# these are the environment variables required
+# add a '.' to the begining of this file to make it '.env' and add the required variables
+
+PORT = 
